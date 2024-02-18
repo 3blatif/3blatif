@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3blatif
+- 👋 Hi, I’m @ahmed
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on making useful projects
